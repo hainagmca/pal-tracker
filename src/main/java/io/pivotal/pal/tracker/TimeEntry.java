@@ -9,7 +9,6 @@ public class TimeEntry {
     private LocalDate date;
     private int hours;
 
-    //hi test
     public TimeEntry() {
     }
 
